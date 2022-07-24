@@ -16,5 +16,5 @@ logs/
 *.log
 .DS_Store
 .pyc
-/pt
-__pycache__
+.pt
+*/*/*/__pycache__/
